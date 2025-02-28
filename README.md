@@ -1,1 +1,1 @@
-# gttyfy
+# analog clock
